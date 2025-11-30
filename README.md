@@ -8,7 +8,7 @@ Data Scientist | Machine Learning | NLP | LLMs | Explainable AI
 ## About Me
 I am a Data Scientist with a strong academic foundation in Informatics and a passion for building intelligent, trustworthy AI systems that solve real-world problems. My interests span machine learning, deep learning, large language models (LLMs), and natural language processing (NLP), with a particular focus on explainable and ethical AI.
 
-I have hands-on experience developing end-to-end AI solutions—from data collection and preprocessing to model training, evaluation, and interpretation. My work is driven by the belief that impactful AI should be both technically sound and socially responsible, especially in sensitive domains such as mental health and healthcare.
+I have hands-on experience developing end-to-end AI solutions, from data collection and preprocessing to model training, evaluation, and interpretation. My work is driven by the belief that impactful AI should be both technically sound and socially responsible, especially in sensitive domains such as mental health and healthcare.
 
 ---
 
