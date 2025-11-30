@@ -32,14 +32,19 @@ I have hands-on experience developing end-to-end AI solutions, from data collect
 ---
 
 ## Featured Projects
-**Mental Health Risk Prediction using NLP**  
+
+### Mental Health Risk Prediction Using NLP  
 Applied machine learning, LLM-based text representations, and feature selection techniques to classify mental health risk from textual data, with emphasis on interpretability and ethical AI.
 
-**Predicting Diabetes Using Machine Learning**  
-Developed and evaluated machine learning models to predict diabetes outcomes using structured medical datasets.
+### Time Series Analysis for Daily Delhi Climate  
+Performed comprehensive time series analysis and forecasting on daily climate data using ARIMA, SARIMA, and statistical modeling techniques to analyze trends, seasonality, and temperature patterns.
 
-**ICT Systems Development – NPRC Internship**  
-Contributed to the development of a complaints handling application and supported enterprise IT systems using MySQL and web technologies.
+### NLP Sentiment Analysis on Airline Tweets  
+Built NLP pipelines using TF-IDF and RoBERTa embeddings to classify sentiment in airline tweets, and compared classical machine learning models with transformer-based approaches.
+
+### Predicting Diabetes Using Machine Learning  
+Developed and evaluated machine learning models to predict diabetes outcomes using structured healthcare datasets, with data preprocessing, feature engineering, and model evaluation.
+
 
 ---
 
