@@ -1,7 +1,7 @@
 # Hi, I'm Abide Mandaza  
 
 Master of Informatics (Data Science & AI) – Telkom University  
-Data Scientist | Machine Learning | NLP | LLMs | Explainable AI  
+Data Scientist | Artificial Intelligence | Machine Learning | NLP | LLMs | Explainable AI  
 
 ---
 
