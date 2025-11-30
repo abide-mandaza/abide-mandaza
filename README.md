@@ -57,4 +57,4 @@ Developed and evaluated machine learning models to predict diabetes outcomes usi
 
 ## Connect with Me
 - Email: abidemantaza111@gmail.com
-- https://www.linkedin.com/in/abide-mandaza-a44997241/ 
+- LinkedIn: https://www.linkedin.com/in/abide-mandaza-a44997241/ 
